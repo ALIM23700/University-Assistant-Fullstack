@@ -98,27 +98,21 @@ Frontend (React) ↔ Backend (API Server) ↔ Database
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Setup Instructions
+This showcase repo does not contain the actual code.  
+To run the project locally, please check the individual repositories:
 
-### Clone Frontend
-```bash
-git clone https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend
-cd university-assistant-frontend
-npm install
-npm run dev
+- **Frontend:** [FullstackUniversity_Assistant-Frontend](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)  
+- **Backend:** [FullstackEcommers_Backend](https://github.com/ALIM23700/FullstackEcommers_Backend)  
 
-### Clone Backend
-```bash
-git clone https://github.com/ALIM23700/FullstackEcommers_Backend
-cd university-assistant-backend
-npm install
-npm run dev
+Follow the instructions in each repo to set up and run the project.
 
+---
 
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/Home.png)  
+![Home Page](screenshots/Home.png)  
 *Dashboard showing upcoming classes and notices*
 
 ### Class Test
@@ -142,12 +136,14 @@ npm run dev
 *Calculate your CGPA easily*
 
 ### Next Day Notice
-![Notice](screenshots/notice.png)  
+![Next Day Notice](screenshots/notice.png)  
 *Automatically updated notice for next day class*
 
 ### Admin Dashboard
-![Admin Dashboard - Overview](screenshots/admin1.png)  
-![Admin Dashboard - Manage Classes](screenshots/admin2.png)  
+![Admin Overview](screenshots/admin1.png)  
+![Admin Manage Classes](screenshots/admin2.png)  
+
+
 ⭐ Why This Project Stands Out
 Solves a real university communication problem
 Clean role-based system
