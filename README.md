@@ -10,7 +10,7 @@ A full-stack University Assistant web application designed to simplify communica
 👉 [Frontend Repo](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)
 
 ### ⚙️ Backend
-👉 [Backend Repo](hhttps://github.com/ALIM23700/FullstackUniversity_Assistant-Backend)
+👉 [Backend Repo](https://github.com/ALIM23700/FullstackUniversity_Assistant-Backend)
 
 ---
 
