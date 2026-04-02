@@ -1,86 +1,109 @@
-🎓 University Assistant
+# 🎓 University Assistant
 
 A full-stack University Assistant web application designed to simplify communication between students and teachers, and automate daily academic updates.
 
-🌐 Repositories
-🎨 Frontend
+---
 
-👉 https://github.com/your-username/university-assistant-frontend
+## 🌐 Repositories
 
-⚙️ Backend
+### 🎨 Frontend
+👉 [Frontend Repo](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)
 
-👉 https://github.com/your-username/university-assistant-backend
+### ⚙️ Backend
+👉 [Backend Repo](https://github.com/ALIM23700/FullstackEcommers_Backend)
 
-🌍 Live Demo
-https://fullstack-university-assistant-fron.vercel.app/
+---
 
+## 🌍 Live Demo
+👉 [Live Site](https://fullstack-university-assistant-fron.vercel.app/)
 
-🚀 Problem We Solve
+---
+
+## 🚀 Problem We Solve
 
 In many universities, teachers receive numerous calls or messages from class representatives just to confirm:
 
-👉 “Will there be a class tomorrow?”
+> “Will there be a class tomorrow?”
 
 This creates unnecessary hassle for both teachers and students.
 
-💡 Our Solution
+---
+
+## 💡 Our Solution
 
 University Assistant eliminates this problem by:
 
-📅 Automatically showing next day’s class schedule
-✅ Allowing teachers to approve upcoming classes with a single action
-📢 Instantly updating students through a centralized notice system
+- 📅 Automatically showing next day’s class schedule
+- ✅ Allowing teachers to approve upcoming classes with a single action
+- 📢 Instantly updating students through a centralized notice system
 
-✨ Features
-👨‍🎓 Student Features
-📅 View upcoming classes (auto-filtered by date)
-📝 Check assignments & class tests
-📚 Download academic resources
-🧮 CGPA Calculator
-🗓️ View class routine
-🔔 Next-day class notice
-🏫 Department-based information access
-🔐 Register & login (Name, Email, Department)
+---
 
-👨‍🏫 Teacher / Admin Features
-➕ Add upcoming classes, assignments, class tests, and class routines
-✏️ Edit or delete only their own content
-👁️ View only information they created
-✅ Approve next-day classes so they appear automatically on the notice page
-🔔 Reduce unnecessary calls or messages from students about class schedules
+## ✨ Features
 
-🔐 Authentication & Authorization
-Role-based Authentication system
-👨‍🎓 Student
-👨‍🏫 Admin / Teacher
-Secure access control:
-Students → View only
-Admin → Full control over their own data
+### 👨‍🎓 Student Features
 
-🏗️ Project Architecture
+- 📅 View upcoming classes (auto-filtered by date)  
+- 📝 Check assignments & class tests  
+- 📚 Download academic resources  
+- 🧮 CGPA Calculator  
+- 🗓️ View class routine  
+- 🔔 Next-day class notice  
+- 🏫 Department-based information access  
+- 🔐 Register & login (Name, Email, Department)  
+
+### 👨‍🏫 Teacher / Admin Features
+
+- ➕ Add upcoming classes, assignments, class tests, and class routines  
+- ✏️ Edit or delete only their own content  
+- 👁️ View only information they created  
+- ✅ Approve next-day classes so they appear automatically on the notice page  
+- 🔔 Reduce unnecessary calls or messages from students about class schedules  
+
+---
+
+## 🔐 Authentication & Authorization
+
+- Role-based Authentication system:  
+  - 👨‍🎓 Student  
+  - 👨‍🏫 Admin / Teacher  
+- Secure access control:  
+  - Students → View only  
+  - Admin / Teacher → Full control over their own data  
+
+---
+
+## 🏗️ Project Architecture
 
 Frontend (React) ↔ Backend (API Server) ↔ Database
 
-🛠️ Tech Stack
-Frontend
-React.js
-Tailwind CSS
-React Router DOM
-Backend
-Node.js
-Express.js
-Database
-MongoDB
+---
 
-⚙️ Installation
-Clone Frontend
-git clone https://github.com/your-username/university-assistant-frontend
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js  
+- Tailwind CSS  
+- React Router DOM  
+
+### Backend
+
+- Node.js  
+- Express.js  
+
+### Database
+
+- MongoDB  
+
+---
+
+## ⚙️ Installation
+
+### Clone Frontend
+```bash
+git clone https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend
 cd university-assistant-frontend
-npm install
-npm run dev
-Clone Backend
-git clone https://github.com/your-username/university-assistant-backend
-cd university-assistant-backend
 npm install
 npm run dev
 
@@ -92,11 +115,8 @@ Clear separation of frontend and backend
 
 👨‍💻 Author
 Abdul Alim
-GitHub: [https://github.com/ALIM23700]
+GitHub: https://github.com/ALIM23700
+
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
-
-
-
