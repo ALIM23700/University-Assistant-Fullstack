@@ -107,6 +107,12 @@ cd university-assistant-frontend
 npm install
 npm run dev
 
+### Clone Backend
+```bash
+git clone https://github.com/ALIM23700/FullstackEcommers_Backend
+cd university-assistant-backend
+npm install
+npm run dev
 
 
 ## 📸 Screenshots
