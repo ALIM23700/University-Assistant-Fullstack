@@ -116,7 +116,7 @@ Follow the instructions in each repo to set up and run the project.
 *Dashboard showing upcoming classes and notices*
 
 ### Class Test
-![Class Test](screenshots/classtest.png)  
+![Class Test](screenshots/  Classtest.png)  
 *View and track class tests*
 
 ### Assignment
