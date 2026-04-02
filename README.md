@@ -107,6 +107,33 @@ cd university-assistant-frontend
 npm install
 npm run dev
 
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/Home.png)
+
+### Class Test
+![Class Test](screenshots/classtest.png)
+
+### Assignment
+![Assignment](screenshots/Assignment.png)
+
+### Routine
+![Routine](screenshots/routine.png)
+
+### Resource
+![Resource](screenshots/resource.png)
+
+### CGPA Calculator
+![CGPA Calculator](screenshots/cgpa-cal.png)
+
+### Next Day Notice
+![Notice](screenshots/notice.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin1.png)
+![Admin Dashboard](screenshots/admin2.png)
+
 ⭐ Why This Project Stands Out
 Solves a real university communication problem
 Clean role-based system
