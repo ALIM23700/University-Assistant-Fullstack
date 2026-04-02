@@ -107,33 +107,41 @@ cd university-assistant-frontend
 npm install
 npm run dev
 
+
+
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/Home.png)
+![Home](screenshots/Home.png)  
+*Dashboard showing upcoming classes and notices*
 
 ### Class Test
-![Class Test](screenshots/classtest.png)
+![Class Test](screenshots/classtest.png)  
+*View and track class tests*
 
 ### Assignment
-![Assignment](screenshots/Assignment.png)
+![Assignment](screenshots/Assignment.png)  
+*View and download assignments*
 
 ### Routine
-![Routine](screenshots/routine.png)
+![Routine](screenshots/routine.png)  
+*Weekly class routine*
 
 ### Resource
-![Resource](screenshots/resource.png)
+![Resource](screenshots/resource.png)  
+*Download academic resources*
 
 ### CGPA Calculator
-![CGPA Calculator](screenshots/cgpa-cal.png)
+![CGPA Calculator](screenshots/cgpa-cal.png)  
+*Calculate your CGPA easily*
 
 ### Next Day Notice
-![Notice](screenshots/notice.png)
+![Notice](screenshots/notice.png)  
+*Automatically updated notice for next day class*
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin1.png)
-![Admin Dashboard](screenshots/admin2.png)
-
+![Admin Dashboard - Overview](screenshots/admin1.png)  
+![Admin Dashboard - Manage Classes](screenshots/admin2.png)  
 ⭐ Why This Project Stands Out
 Solves a real university communication problem
 Clean role-based system
