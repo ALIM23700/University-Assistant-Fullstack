@@ -1,5 +1,7 @@
 # 🎓 University Assistant
 
+📌 Showcase Repository: This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
+
 A full-stack University Assistant web application designed to simplify communication between students and teachers, and automate daily academic updates.
 
 ---
@@ -99,8 +101,12 @@ Frontend (React) ↔ Backend (API Server) ↔ Database
 ---
 
 ## ⚙️ Setup Instructions
-This showcase repo does not contain the actual code.  
-To run the project locally, please check the individual repositories:
+This showcase repo does not contain the actual code. 
+
+
+This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
+
+Follow the instructions in each repository to set up and run the project.
 
 - **Frontend:** [FullstackUniversity_Assistant-Frontend](https://github.com/ALIM23700/FullstackUniversity_Assistant-Frontend)  
 - **Backend:** [FullstackEcommers_Backend](https://github.com/ALIM23700/FullstackEcommers_Backend)  
